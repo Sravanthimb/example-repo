@@ -1,1 +1,3 @@
-Select * from fctenrollmentVw ----------- to get Enrollment details
+Select * from EnrollmentVW ----------- to get Enrollment details
+
+Select * from AuthorizationVW  ------  to get Authorization details
