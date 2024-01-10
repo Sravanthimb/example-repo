@@ -1,1 +1,6 @@
 -----Sample Test------
+
+
+Never ever store passwords
+store API credentials
+store credit cards
