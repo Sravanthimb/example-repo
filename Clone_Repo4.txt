@@ -11,7 +11,14 @@ repo = repository
 push
 staging
 committing
+pull
 
 git installation
 git bash
 generate new token
+
+git status
+git add
+git commit -m "Initial commit"
+git push origin main
+git pull
