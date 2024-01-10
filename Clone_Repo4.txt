@@ -4,3 +4,14 @@
 Never ever store passwords
 store API credentials
 store credit cards
+
+Learnt today:
+clone
+repo = repository
+push
+staging
+committing
+
+git installation
+git bash
+generate new token
